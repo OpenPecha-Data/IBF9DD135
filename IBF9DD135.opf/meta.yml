@@ -1,0 +1,33 @@
+id: IBF9DD135
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:51:27.909899'
+last_modified: '2022-05-30T18:51:27.909911'
+parser: null
+source_metadata:
+  title: Dola Jigme Kalzang Series
+  language: en
+  description: 'Texts by and about Dola Jigme Kalzang (rdo bla ''jigs med skal bzang,
+    b. 1789), one of the foremost disciples of Dodrupchen Jigme Trinle Özer and an
+    important master in the Longchen Nyingtik tradition:'
+  volume:
+    f4B78:
+      title: 'Words of the Siddhas: How to Practice the Heart-Essence of the Vast
+        Expanse'
+      base_file: f4B78.txt
+      order: 1
+      parent: Advice
+    fAECE:
+      title: 'Elucidating the Hidden Meaning: A Commentary on the Meaning of the Four
+        Mudrās'
+      base_file: fAECE.txt
+      order: 2
+      parent: Tantra
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
